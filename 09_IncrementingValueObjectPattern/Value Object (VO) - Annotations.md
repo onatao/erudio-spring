@@ -1,10 +1,6 @@
 # Value Object (VO) - Annotations
 
-
-
-
-
-![image-20230427215903369](C:\Users\natha\AppData\Roaming\Typora\typora-user-images\image-20230427215903369.png)
+![voimg](C:\Users\natha\Documents\development-workspace\sts-workspace\spring-restfulapi-udemycourse\09_IncrementingValueObjectPattern\assets\voimg.png)
 
 
 

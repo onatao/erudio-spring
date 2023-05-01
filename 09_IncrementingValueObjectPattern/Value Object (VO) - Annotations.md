@@ -1,8 +1,6 @@
 # Value Object (VO) - Annotations
 
-![voimg](C:\Users\natha\Documents\development-workspace\sts-workspace\spring-restfulapi-udemycourse\09_IncrementingValueObjectPattern\assets\voimg.png)
-
-
+![voimg](assets/voimg.png)
 
 ### Como o Value Object funciona na prática?
 

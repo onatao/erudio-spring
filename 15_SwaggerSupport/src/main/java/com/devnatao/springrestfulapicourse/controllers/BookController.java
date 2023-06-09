@@ -103,5 +103,4 @@ public class BookController {
 		List<BookVO> responseList = service.findAll();
 		return new ResponseEntity<>(responseList, HttpStatus.OK);
 	}
-	
 }
